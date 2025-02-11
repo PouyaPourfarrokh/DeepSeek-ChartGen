@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/pouyapourfarrokh/Desktop/AI&Data science Projects/Qwen2-ChartGen/myenv/bin/python3.12" "$0" "$@"
+'''exec' "/Users/pouyapourfarrokh/Desktop/AI&Data science Projects/DeepSeek-ChartGen/myenv/bin/python3.13" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

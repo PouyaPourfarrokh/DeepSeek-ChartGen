@@ -6,3 +6,5 @@ chromadb
 pypdf
 pandas
 matplotlib
+PyPDF2
+
